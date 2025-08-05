@@ -1,5 +1,6 @@
 my_test0
 =====
+This is my first simulation result.
 
 Fork "my_test0" to create a new MOOSE-based application.
 
